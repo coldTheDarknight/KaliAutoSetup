@@ -5,4 +5,3 @@ updates kali && full upgrades kali
 upgrades dist
 installs setuptools
 installs git
-
